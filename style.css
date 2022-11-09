@@ -1,0 +1,249 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/* background color for header */
+.header--color{
+    background-color: #131921;
+}
+
+/* header code */
+.header{
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: ;
+    align-items: center;
+}
+.header--amazon_logo_img{
+    height: 6vh;
+    width:8.5vw;
+    margin-left: 5px;
+}
+.header--amazon_logo{
+    height: 7vh;
+    width:10vw;
+    margin-left: 5px;
+    padding-top: 5px;
+}
+.hover:hover{
+    border: 1px solid white;
+}
+.cursor{
+    cursor: pointer;
+}
+
+/* select your address code */
+.header--select_address{
+    height: 6.7vh;
+    width:11vw;
+    margin-left: 5px;
+    padding-top: 5px;
+    
+}
+.address{
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.hello{
+    color: rgb(173, 167, 167);
+    margin-left: 22px;
+    margin-top: 10px;
+    font-size: 3rem;
+}
+.icon{
+    color: white;
+}
+
+/* header searchbox */
+.header--searchbox{
+    display: flex;
+    width:50vw;
+    margin-left: 70px;
+    margin-right: 35px;
+}
+.searchbox{
+    height: 5.9vh;
+    width: 60vw;
+    border-radius: 7px;
+    margin-left: 154px;
+}
+.amazon_fashion{
+    position: absolute;
+    height: 5.7vh;
+    width: 18vh;
+    margin-top: 1px;
+    margin-left: 1px;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+    text-align: center;
+    background-color: #f3f3f3;
+}
+.amazon_fashion_p{
+    margin-top: 25px;
+    font-size: 2.5rem;
+}
+.amazon_fashion:hover{
+    background-color: rgb(233, 227, 227);
+}
+.search_logo{
+    background-color: #febd69;
+    position: absolute;
+    margin-left: 46.5%;
+    margin-top: 1px;
+    width: 3.5vw;
+    height: 5.7vh;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    justify-content: center;
+}
+.search_logo:hover{
+    background-color:#f8b864 ;
+}
+.fa-search_logo-logo{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.header--lang{
+    margin-left: 1px;
+    width: 5vw;
+    height: 6vh;
+}
+.flag{
+    width: 5vw;
+    height: 5vh;
+}
+.header--signin{
+    height: 6vh;
+    margin-left: 10px
+
+}
+.header--signin-p{
+    color: rgb(245, 239, 239);
+    font-size:3rem;
+    margin-left: 10px;
+}
+.header--signin_ac{
+    display: flex;
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+    width: 10vw;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.header--returns{
+    width: 5.6vw;
+    height: 6vh;
+    margin-left: ;
+}
+
+.header--cart{
+    height: 6vh;
+    width: 6vw;
+    color: white;
+    font-size: 1.rem;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header--cart_p{
+    font-size: 3rem;
+    margin-top: 25px;
+}
+
+
+.navigationBar{
+    display: flex;
+    background-color:#232f3e ;
+   
+    height: 6.6vh;
+    justify-content: space-between;
+}
+
+.fontSize{
+    font-size: 4rem;
+    color: white;
+}
+.all{
+    font-size: 3rem;
+}
+.child_bar1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25px;
+    width: 4vw;
+    height: 4vh;
+}
+.navigationBar--child{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.common{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25px;
+    width: 6vw;
+    height: 4vh;
+    font-size: 2.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.child_bar3{
+    width:7vw;
+}
+.child_bar4{
+    width:4.5vw;
+}
+.child_bar5{
+    width: 9vw;
+}
+.child_bar7{
+    width: 8vw;
+}
+.child_bar8,.child_bar9,.child_bar10{
+    width: 4.5vw;
+}
+
+.navigationBar--prime{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 6vh;
+}
+.prime1{
+    color: white;
+    font-size: 2.9rem;
+    font-weight: bolder;
+    background-color: #1997fd;
+    width: 14vw;
+    height: 6vh;
+    border-top-right-radius: 75px;
+    border-bottom-right-radius: 75px;
+}
+.breathe{
+    text-align: center;
+}
+.prime2{
+    height: ;
+}
+.join{
+    color: white;
+    font-size: 3.5rem;
+}
+.prime2{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.primevideo{
+    color: white;
+    font-size: 2rem;
+}
