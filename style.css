@@ -20,7 +20,7 @@
 .header--amazon_logo_img{
     height: 6vh;
     width:8.5vw;
-    margin-left: 5px;
+    margin-left: 35px;
 }
 .header--amazon_logo{
     height: 7vh;
@@ -38,7 +38,7 @@
 /* select your address code */
 .header--select_address{
     height: 6.7vh;
-    width:11vw;
+    width:12vw;
     margin-left: 5px;
     padding-top: 5px;
     
@@ -50,7 +50,7 @@
 }
 .hello{
     color: rgb(173, 167, 167);
-    margin-left: 22px;
+    margin-left: 25px;
     margin-top: 10px;
     font-size: 3rem;
 }
@@ -69,7 +69,6 @@
     height: 5.9vh;
     width: 60vw;
     border-radius: 7px;
-    margin-left: 154px;
 }
 .amazon_fashion{
     position: absolute;
@@ -247,3 +246,60 @@
     color: white;
     font-size: 2rem;
 }
+
+
+/* code for amazon fashion */
+.amazonfashion{
+    display: flex;
+    width: 100%;
+    height: 7vh;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.amazonfashion--fashion{
+    font-size: 4rem; 
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 65px;
+}
+ .common--features{
+    font-size: 2.5rem;
+    font-family: Arial, Helvetica, sans-serif ;
+ }
+ .amazonfashion--dayreturns{
+    color: blue;
+    font-size: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 2%;
+    width: 10%;
+ }
+ .restrictions{
+    color: black;
+    font-size: 2rem;
+    margin-left: 55px;
+ }
+ .hover--amazonfashion:hover{
+    border-bottom: 2px solid rgb(233, 181, 12);
+ }
+ .deals{
+    width: 100%;
+    height: 50%;
+ }
+ .under199{
+    width: 98%;
+    margin-top: 35px;
+    margin-left: 35px;
+ }
+ .discount1{
+    width: 49%;
+    height: 20vh;
+    margin-left: 35px;
+ }
+ .discount2{
+    width: 49%;
+    height: 20vh;
+ }
+ .deals--discount{
+    display: flex;
+ }
