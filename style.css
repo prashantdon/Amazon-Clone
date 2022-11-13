@@ -313,15 +313,15 @@
   position: relative;
  }
  .main--shoppay{
-    width: 47vh;
-    height: 60vh;
+    width: 46vh;
+    height: 63vh;
     background-color: white;
     position: absolute;
-    margin-top: 20%;
+    margin-top: 22%;
     margin-left: 1.5%;
     font-size: 2.6rem;
     font-family: Arial, Helvetica, sans-serif;
-    padding-left: 60px;
+    padding-left: 45px;
  }
  h2{
     margin-top: 50px;
@@ -331,8 +331,8 @@
     width: 100%;
  }
  .main--livingroom{
-    margin-left: 27.5%;
-    padding-left: 50px;
+    margin-left: 26.5%;
+    padding-left: 45px;
     font-size: 2.5rem;
     font-family: Arial, Helvetica, sans-serif;
  }
@@ -342,8 +342,9 @@
     margin-top: 5%;
 }
  .main--tools{
-    margin-left: 53.2%;
-    padding-left: 60px;
+    margin-left: 51.5%;
+    padding-left: 45px;
+    font-size: 2.5rem;
  }
  .grid{
     display: grid;
@@ -354,13 +355,13 @@
  }
 .main-signin{
     position: absolute;
-    margin-left: 78.7%;
-    margin-top:22.6%;
+    margin-left: 76.5%;
+    margin-top:22.3%;
 }
  .main--signin1{
     background-color: white;
-    width: 18.8vw;
-    height:21vh;
+    width: 20.5vw;
+    height:18vh;
     font-size: 3.8rem;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
@@ -369,7 +370,7 @@
  }
  .main--button{
     height: 4vh;
-    width: 18vw;
+    width: 19.2vw;
     background-color: yellow;
     border-radius: 20px;
     border: none;
@@ -379,7 +380,38 @@
  }
  .main-laptop_img{
     margin-top:4%;
-    width: 19.9vw;
-    height: 40vh;
+    height: 39vh;
+    width: 21vw;
+    padding-right: 32px;
  }
- 
+ .main--laptop{
+    font-size: 2rem;
+    text-align: right;
+    margin-right: 5%;
+ }
+ .main--shoppay1{
+    width: 46.9vh;
+    height: 63vh;
+    background-color: white;
+    margin-top: 8%;
+    margin-left: 1.4%;
+    font-size: 2.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 60px;
+ }
+
+ .main-sibling{
+    background-color: #eaeded;
+    display: flex;
+    /* justify-content: space-between; */
+ }
+ .main--shoppay2{
+    width: 47vh;
+    height: 63vh;
+    background-color: white;
+    margin-top: 8%;
+    margin-left: 1.5%;
+    font-size: 2.6rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 45px;
+ }
